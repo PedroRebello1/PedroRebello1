@@ -2,3 +2,4 @@
 - 🌱 I’m currently learning Data Science and Machine Learning, Systems' Analysis and Development
 - 📫 How to reach me: don't
 - 😄 Pronouns: fla/mengo
+- 👍 Yes, my repos are private 
