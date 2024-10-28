@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @PedroRebello1
-- 🌱 I’m currently learning Data Science and Machine Learning, Systems' Analysis and Development
+- 🌱 I’m currently learning Data Science & ML
 - 📫 How to reach me: don't
 - 😄 Pronouns: fla/mengo
-- 👍 Yes, my repos are private 
